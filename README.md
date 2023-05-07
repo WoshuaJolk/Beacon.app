@@ -10,12 +10,7 @@
 
 
 ## Intro
-An map based social network. 
-
-<p align="center">
-  <img alt="Example usage" src="/media/demo.gif">
-</p>
-
+A social network catalyzing humane interaction. 
 ## Currently Working On
 
 1. Beta testing
