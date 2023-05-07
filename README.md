@@ -2,48 +2,27 @@
 
 > The fastest way to see your favorite people.
 
-[![NPM](https://img.shields.io/npm/v/react-native.svg)](https://www.npmjs.com/package/react-native) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/transitive-bullshit/chatgpt-api/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
+[![NPM](https://img.shields.io/npm/v/react-native.svg)](https://www.npmjs.com/package/react-native) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 - [Intro](#intro)
-- [Install](#install)
-- [Usage](#usage)
 - [Currently Working On](#currently-working-on)
 - [Credits](#credits)
-- [License](#license)
 
 
 ## Intro
-An AI tool to generate a custom cover letter for each job you apply to, based on your resume and the job description. ✨
+An map based social network. 
 
 <p align="center">
   <img alt="Example usage" src="/media/demo.gif">
 </p>
 
-## Install
-
-```bash
-npm install
-```
-Make sure you're using  node >= 16
-
-## Usage
-
-Sign up for an [OpenAI API key](https://platform.openai.com/overview) and store it in your environment.
-
 ## Currently Working On
 
-1. Fine tuning the model with exemplar cover letters and resumes
-2. Updating the UX 
+1. Beta testing
+2. Close Friend Features
+3. Map UI
 
 Feel free to open a PR if you see anything to improve on!
 
-
 ## Credits
-- Huge thanks to [Reese Bretow](https://reesebretow.com/) for helping with the design 💪
-
-- [OpenAI](https://openai.com) for creating [GPT-3](https://openai.com/product/gpt-3/) 🔥
-## License
-
-MIT © [Danial Asaria](https://danialasaria.com/)
-
-If you found this project interesting, please consider [sponsoring me](https://github.com/sponsors/danialasaria) or <a href="https://twitter.com/danialasaria">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
+- Huge thanks to [Nicole Russack](https://www.linkedin.com/in/nicolerussack/),[Joshua Wolk](https://www.linkedin.com/in/joshgwolk/), and [Sana Jayaswalk](https://www.linkedin.com/in/sana-jayaswal-43a83b1b8/)for helping make this happen. 💪
