@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Beacon.app",
+    "slug": "LavaLab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/beaconlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.beacondanial.Beacon",
+      "permissions": {
+        "photoLibrary": "We need access to your photo library to allow you to select and upload profile pictures. Your photos will not be shared without your consent.",
+        "locationAlways": "We use your location to give real-time updates of where you are to your friends. You can easily turn off location tracking by turning your beacon off on the map page."
+      },
+      "buildNumber": "1.0.3"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon-32x32.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.beacondanial.Beacon"
+    },
+    "web": {
+      "favicon": "./assets/favicon.ico"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "We need access to your photo library to allow you to select and upload profile pictures. Your photos will not be shared without your consent.",
+          "//": "Disables the microphone permission",
+          "microphonePermission": false
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ca0133d4-1c92-47d4-b663-bfa1ad75a71c"
+      }
+    }
+  }
+}
