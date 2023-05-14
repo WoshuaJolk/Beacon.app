@@ -20,4 +20,4 @@ A social network catalyzing humane interaction.
 Feel free to open a PR if you see anything to improve on!
 
 ## Credits
-- Huge thanks to [Nicole Russack](https://www.linkedin.com/in/nicolerussack/), [Joshua Wolk](https://www.linkedin.com/in/joshgwolk/), and [Sana Jayaswalk](https://www.linkedin.com/in/sana-jayaswal-43a83b1b8/)for helping make this happen. 💪
+- Huge thanks to [Nicole Russack](https://www.linkedin.com/in/nicolerussack/), [Joshua Wolk](https://www.linkedin.com/in/joshgwolk/), and [Sana Jayaswal](https://www.linkedin.com/in/sana-jayaswal-43a83b1b8/)for helping make this happen. 💪
