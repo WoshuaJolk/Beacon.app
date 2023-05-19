@@ -8,9 +8,14 @@
 - [Currently Working On](#currently-working-on)
 - [Credits](#credits)
 
+![image000000](https://github.com/danialasaria/Beacon.app/assets/34591059/1520891f-5aaa-4e03-8d41-429b0571052e)
+![image000001](https://github.com/danialasaria/Beacon.app/assets/34591059/97089bf4-4f9e-4112-a8a7-b5f8771cb8ee)
+![image000002](https://github.com/danialasaria/Beacon.app/assets/34591059/0dec1e68-38f3-428c-a3b8-199d1a6b94a0)
+
 
 ## Intro
 A social network catalyzing humane interaction. 
+
 ## Currently Working On
 
 1. Beta testing
